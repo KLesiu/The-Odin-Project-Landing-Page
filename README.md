@@ -1,5 +1,6 @@
 # The-Odin-Project-Landing-Page
-## Work-time: An hour
+## Work-time: Few hours
 ## New skills:
-- Learn how to make good pizza and brownie.
-- How set the link to subpage 
+- Learn how to work with a ready-made website design project.
+- Practise using css variables.
+
